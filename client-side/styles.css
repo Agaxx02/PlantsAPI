@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-color: #baf5eb;
+   
+}
+ul{
+    list-style: none;
+}
+h1, input, button, h2, li {
+    margin: 12px;
+}
